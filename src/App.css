@@ -38,7 +38,7 @@
 }
 
 
-.greeting-list {
+/* .greeting-list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -54,4 +54,4 @@
   border-radius: 5px;
   width: fit-content;
 
-}
+} */
