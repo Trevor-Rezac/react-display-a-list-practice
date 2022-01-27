@@ -4,6 +4,7 @@ import './App.css';
 import { greetings } from './Greetings/greetings';
 import GreetingList from './Greetings/GreetingList.js';
 
+
 function App() {
   console.log(greetings);
   return (
