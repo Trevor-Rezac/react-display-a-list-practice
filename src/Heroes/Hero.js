@@ -1,5 +1,6 @@
 import React from 'react';
 import CatchphraseList from './CatchphraseList.js';
+import './Heroes.css';
 
 export default function Hero({ hero }) {
   console.log(hero.catchPhrase);
