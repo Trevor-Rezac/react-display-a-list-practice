@@ -1,0 +1,17 @@
+.greeting-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: dotted 2px black;
+}
+
+.greeting {
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 5px auto;
+    border: solid 1px green;
+    border-radius: 5px;
+    width: fit-content;
+
+}

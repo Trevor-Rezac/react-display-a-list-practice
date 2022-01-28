@@ -1,0 +1,15 @@
+.hero-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: dotted 2px black;
+}
+.hero {
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin: 5px auto;
+    border: solid 1px maroon;
+    border-radius: 5px;
+    width: fit-content;
+}
